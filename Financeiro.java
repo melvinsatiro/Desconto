@@ -16,7 +16,6 @@ public class Financeiro {
 
         while(numero != 4){
             try {
-                numero = scanner.nextInt();
 
             if(numero == 4){
                 System.out.println("FIM");
