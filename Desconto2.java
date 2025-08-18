@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Desconto2 {
+public class Desconto {
 
     public static void main(String[] args) {
         System.out.println("Digite o valor da compra");
