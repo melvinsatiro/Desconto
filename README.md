@@ -66,5 +66,5 @@ Sem Desconto = R$ 50.0
 
 Sinta-se à vontade para contribuir com melhorias ou sugerir novas funcionalidades.
 
-Feito por **Melvin Satíro**
+Feito por **Melvin Satiro**
 
